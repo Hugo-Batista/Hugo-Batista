@@ -1,6 +1,6 @@
 Olá, eu sou o Hugo Batista! 👋
 
-Eu sou um **Desenvolvedor Full Stack** 🚀, sempre me aprimorando e construindo projetos com foco em tecnologias modernas.
+Eu sou um **Desenvolvedor Full Stack**, sempre me aprimorando e construindo projetos com foco em tecnologias modernas.
 
 💻 Tecnologias que estou usando:
 
